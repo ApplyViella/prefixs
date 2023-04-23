@@ -1,0 +1,6 @@
+# Название группы - префикс
+prefix:
+  player: '&7Игрок'
+  vip: '&aVIP&7'
+  deluxe: '&6Deluxe&7'
+  admin: '&cAdmin&7'

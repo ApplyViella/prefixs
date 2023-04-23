@@ -1,0 +1,4 @@
+name: beber0task
+version: '${project.version}'
+main: ru.belyimedved.Beber0task
+api-version: 1.19
